@@ -1,0 +1,27 @@
+{
+  "name": "crypton-portfolio-landing",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Jakub Leško <jakub.lesko@ques.sk>",
+  "license": "COMMERCIAL",
+  "homepage": "https://bitbucket.org/ques-sk/crypton-portfolio-landing#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://kubadlo@bitbucket.org/ques-sk/crypton-portfolio-landing.git"
+  },
+  "scripts": {
+    "serve": "parcel src/index.html",
+    "build": "parcel build src/index.html --out-dir build/",
+    "clean": "rimraf build/ dist/"
+  },
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "chart.js": "^2.7.3",
+    "jquery": "1.9.1 - 3",
+    "popper.js": "^1.14.6"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3",
+    "sass": "^1.15.3"
+  }
+}

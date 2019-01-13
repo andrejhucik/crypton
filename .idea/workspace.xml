@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f9846bf-321e-4b0f-a17b-e65ebe25df94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.cache/00/721d41babee72a4ffca3679269481c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/00/c6b76d8d03f57d44b862e1d3faa5fc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/01/75d4057a37c62c10821ef646019957.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/01/d31aa3d113a70c907d93044de4336e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/06/e7aceb2e098879fabc1ef4505e1c9c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/07/5e32676da59fbf1777d5688e34f4c7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/07/dea45fb85c35c4f824e9eb9bd8def0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/09/a19a3dcd45ac03c9effaa9e38e2d2f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/0b/a4e539e6b8ab0425b2ad0b7b1412b8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/0d/91c84b1c36af1789f8763c813a2f3e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/0d/a42801c6a4a7650b20b602086cd3f8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/0e/35f5f9fe19b725d4d9217a0e4a592e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/0f/f651b4c191e36cb03f706666de08f7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/10/a5637bc275106d0b32f33a3b1956a3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/11/0de7b3f9afd3ad96135271c54fe364.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/15/95edde0db7ccf4cd4663536463eb95.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/16/23a1ab4d5e047a092d9571dc807ddb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/18/646800bf0dab55712af6449404861a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/1a/70b712448ae20329634fcb4f9241b4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/1c/df04bf73265cd59c5e510101e146f6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/1e/8d5a55697c5d53329c4cf88b558d62.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/1f/ed6b73ba35fd3b889c0fe2169f377b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/20/ee16030caaf0df9a315d68226b3e71.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/23/aba390c8bcf115297517a99327c09b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/24/7f5d30fe58b66efc536563b5993e76.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/24/886eeffa00242e5afce9631ed3426d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/24/9a7ceb29cd65dc6992df085442e607.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/26/a67bc8de22e107cdb362aaf8ff0f13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/26/a8441d97aff6b519adca1aabf7b6ce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/26/c17d7b3f3df46a00f7b3127990b2b4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/2a/558ffeede87a03c525faf36ba5c8f2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/2a/6cdb7d0d0a04b03e277452142c00fc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/2e/8f9b9a4ac46990a310a1a0f8251fbf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/30/79a410ae53fbcf3bf66884168e126d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/31/c3f23b1995f6206b6d4f7859a81434.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/32/3e7f7bb93a32026a9efe0815c7e067.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/34/267b9ea2ed3014d94e34ddc928af29.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/34/36a09726eae4d54917b7e149503142.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/37/17edf3fb5719100bcf4dbfa3cabaea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/39/085efb80b1a0bc97b9385b014d1092.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/39/3a78200454bac4bf9fb38651b68e66.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/39/b4e5390bce1643756a2cb200f3602a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/3b/dd7e73720d7f0de072df9c7e98bceb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/3e/df05b8b33c81292e74a8d80ccda495.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/3f/22d9c258ec3076be8b2f159b628120.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/40/ce8a458c3d5f95da5289b57e0f1b12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/43/4900aca1e97266d875456cadc16c41.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/45/e43df695848a0f3823f0a281a11796.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/47/48bb09ff97496b2d135f2133a88f2f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/49/074eb8b10b046f352d2a9d70c5f1ff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/49/79eb4db7ea444b51429531b2ce94de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/49/d14c5d80ba72e2c71507dd057f3c57.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4a/7881ac7a09ea34c3bedefe4ef89273.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4a/f1982bca698574e67ee2e4502a11eb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4b/7057036b21148c881b12ad4e18a819.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4b/f5d3c9598bf9a7d0203d75485c5e5c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4f/3ebf278bb9479d1a5f06a006ae9b9b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4f/d08d9c8f204456b08dc29de2c7d4c1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/50/93edf68d83ad25e640c2176b41e406.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/51/9c106913d98e63622e59e85b2c5d95.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/51/d6cbaa180d90dbd63738fc024ad31a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/55/c374cb6c3d4701c8ffdfcb3a0cd3ac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/55/fa2e154c56c2d1810a1556cd2c4eb2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/5a/4f6d900cec21a7822cc3d7e63914cf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/5c/3464ac497d7456d6b0752ccbd8028c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/5c/a079b5d930770025c3bfb605f592b2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/5f/6575c10a89c17f1b0180b8cc8c45dd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/61/150898d873d699e0e6df0da1ae4f86.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/61/2baf5471c4d461432102883c1595e2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/62/f3f7004caca1abb482254f8fecf2d4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/63/b69a428cf6ed6f66bc069e9d6ce735.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/64/5e52b0eef0c027ec36382167515c8a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/6b/bdf30941b2b56c8240d6d630e38262.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/6c/5f6c0b9239046729b125e398818df9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/70/59c569ef67fadfa3949d3a525c7eed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/70/8650d4bc7665a1b7c7619bede62e60.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/74/d3ec5e4b9ee7bea32a580375ed236a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/75/ef5f63a1291d43ea185c7b0afee71c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/76/42ff4d53988217300098e013c6f652.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/76/5362110ae483d603887dd3f646792f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/76/e6dd0257adfd1c959f364e3bd4167f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/7b/dffa5d010d7e62e712ea3b968a9567.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/80/404d7718c5ac1d5200ba6a844b81e1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/80/4d85fb537210e28d2c924109dcc58a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/85/a3590b298bcf042931e866816bd742.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/87/2d76c30e612ff277fbc8c1e81f955c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/8c/fed708ad829403d184315575909468.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/8d/a8b0a028ccfa9dab175264aa6a4608.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/8d/b7df2c63f989b969dc6e0249ef3eae.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/8f/446a44e289f728b22824f9999ce0de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/95/0485957ff79d921dd4577cb28fa10f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/99/04790cc16d799be7831ee4101264df.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/9c/eb0a624a633081438790eb5d422fe0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/9e/387e6f4c311cd95689a9abde8dedea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/9f/248001776306ffb62739e0b90d1367.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/9f/c99eea2c98f0c0859c23240fa8f451.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/a0/00fbb13bc05da10bc7d45fc313ec45.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/a2/f10fc97e9b6e682578ad76f39e963c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/a3/e264bcb644757445ce604314ea77b6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/a5/9ebdbf8e194fc2765933b5ee44b620.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/a6/90f029fdc0326103cb47e95e7da427.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/b1/5742409af5c963b825201ddbc27516.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/b4/d200616c890592e3454049f4fc7639.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/b7/92f5bfed3454a0de0ebc61937dc776.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/ba/a806003ab8a96ad58b4e83a46135ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/bd/bbbbaeb0e621c7d6a35eff1d951d52.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/bd/c6c5854b4a2aec27a67063438a41c5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c0/9a5e1c8eef3d4fc0ede3a42cb729fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c1/b012ae00c2d1dd59e5d5a00b47a167.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c2/38c3c6969c2a221d4d3ec7c36a492e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c2/38f1d01d0e1e52f83df365efbbcc0c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c3/d80e862ca27c51c643191eeb0357b4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c3/fda02f5e7a42ea63d927820645a0dc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c4/260c4c8a3245ca703d7fd865d032d0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c4/39efbda21e21b95fc4bf1c066b3655.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c8/1df750e9807dca41f8b6bcf3fc80d0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c9/1be79c11c218a97216b8780468bd8a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c9/596efd6c055be59a8b11e621d7cf24.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/cb/d8ddc6cd32fe14f27ef622adcd40bd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/cf/1913fd88b5777e752138d2ff5d41ef.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/d0/73fcdec09a1810d36518ac0b099b80.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/d1/5300f11cb083fbaf2c94c0c892d022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/d4/9c042a6a19c4c036a939b7592c9089.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/da/a3ca7238017587991aa8ceda6ba347.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/db/4840360c5c5f818cf4a6414aafbcee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/dc/bad2b78f2ab5b68b309d563b96dedd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/e1/7003a2379384eced560a2cceca0c98.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/e3/9aaf111b771ca23d34ee3bb6c3744f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/e7/10d971e414c4b8fad85c6861bd408a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/e7/e4f44769ca858cb48b809c010262ae.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/e9/4dae6363dee3e35d792d5b6deb2e4b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/ea/474cf4894a73f2a80aea2eb5194e49.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/ed/0229dcd48c78eae23b5283407e5966.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/ef/ec87ec202fad4bed818f1ac9d70a20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f0/070e7a4eb1ea5746e7b1a1f6686a79.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f1/6d1dbfb4622fd781795690d3347405.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f1/975345e249babaca1f0a5cc865f43f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f4/c036be26e56515d4c7bb1c24ac6bc0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f6/1f1a9ab353b305f7deda5f49e7f7ed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f6/87342e83837584dcbc7bc8e2be1233.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f6/e27e7b75646416d6b93862287ead24.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f8/6c73169177e915959d234012c17f57.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f8/a5c7ace1b77552a7e8442b9670cbc4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f9/3b92d2c7ea19623204650d477dfa9c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f9/f2af42e5e4c8beb202fe2081a719d8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/fb/56f8c0e7cb0c9f6974fce9ac626f85.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/fb/8794fb64d145f9b880fb642ca57537.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/fd/4d45cebb80d5fa7aef57b4f0a3f4cb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/fe/6609229da92f2d15f7f170df906748.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/fe/e0193ed72cae0fe53e869d56a01b9b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/ff/62d8b9df40c996a175cf05ea692e52.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/crypton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/avatar-img.40dfc030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bg-white-pattern.3ef26362.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/btc-icon.d98db4c8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/eth-icon.b9c1fafa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/graf.363a162b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/grow-icon-down.44f13d58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/grow-icon-up.7d2d3413.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/iphone-2.1f4c8b5a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/iphone.d0be2d39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/logo.6023b87e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ltc-icon.a3a6b072.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/nakup.db105483.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/neo-icon.d5f012ab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/scripts.bcf3243b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/scripts.bcf3243b.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/stuff.65e7e68d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/style.ff1c4cab.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/style.ff1c4cab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/style.ff1c4cab.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/transakcia.756f8737.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/vlozenie.dec3e6e1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Iphone-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Stuff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/avatar-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bg-white-pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/btc-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/eth-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/graf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/grow-icon-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/grow-icon-up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ltc-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/nakup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/neo-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/transakcia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/vlozenie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="972" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crypton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypton" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547417279983" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v4.6.1/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f9846bf-321e-4b0f-a17b-e65ebe25df94" name="Default Changelist" comment="" />
+      <created>1547416864832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547416864832</updated>
+      <workItem from="1547416866791" duration="358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="358000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="972" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32954547" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build/neo-icon.44bb9acd.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/scripts.9b326172.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
