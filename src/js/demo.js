@@ -28,4 +28,3 @@
 // 	}
 // 	$('body').i18n();
 //   };
-import data from './i18n/sk.json'
