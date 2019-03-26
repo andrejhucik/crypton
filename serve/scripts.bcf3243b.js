@@ -111,9 +111,7 @@ module.exports = {
 },{}],"scripts/index.js":[function(require,module,exports) {
 "use strict";
 
-var _sk = _interopRequireDefault(require("./i18n/sk.json"));
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+require("./i18n/sk.json");
 
 // 'use strict';
 document.addEventListener('DOMContentLoaded', function () {
@@ -270,7 +268,7 @@ var set_locale_to = function set_locale_to(locale) {
 
 jQuery(function () {
   $.i18n().load({
-    'sk': 'slovak',
+    'sk': './sk.json',
     'en': 'en.json'
   }).done(function () {
     set_locale_to(url('?locale'));
@@ -318,7 +316,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "52443" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "54602" + '/');
 
   ws.onmessage = function (event) {
     var data = JSON.parse(event.data);

@@ -1,6 +1,6 @@
 
 // 'use strict';
-import slovak from './i18n/sk.json'
+import './i18n/sk.json'
 
 document.addEventListener('DOMContentLoaded', function () {
     // References to the HTML elements
@@ -187,7 +187,7 @@ var set_locale_to = function(locale) {
 
   jQuery(function() {
 	$.i18n().load( {
-        'sk': 'slovak',
+        'sk': './sk.json',
         'en': 'en.json'
 	} ).done(function() {
 	  set_locale_to(url('?locale'));
@@ -207,5 +207,6 @@ var set_locale_to = function(locale) {
 	if (locale) {
 	  $.i18n().locale = locale;
 	}
-	$('body').i18n();
+    $('body').i18n();
+     
   };
