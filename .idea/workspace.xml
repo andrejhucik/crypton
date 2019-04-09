@@ -2,266 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f9846bf-321e-4b0f-a17b-e65ebe25df94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/images/Polygon 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Rectangle 730.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/arrow-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cardano-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/crypton_graf1.a28a6266.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/crypton_graf1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/crypton_graf1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/crypton_portfolio1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dash-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/eos-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/etc-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/fav.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ftc-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/graf1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ifc-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/iota-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/maid-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/monero-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/namecoin-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/nem-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/nvc-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/peercoin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/steem-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/stellar-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/stuff.f7b6ce52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tether-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/trc-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/xpm-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/xrp-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/libs/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/translate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/i18/cz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/i18/de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/i18/hu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/i18/pl.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/graf.363a162b.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/graf.363a162b.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/iphone.d0be2d39.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/iphone.d0be2d39.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/iphone-2.1f4c8b5a.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/nakup.db105483.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/nakup.db105483.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/scripts.bcf3243b.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scripts.bcf3243b.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/scripts.bcf3243b.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scripts.bcf3243b.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/stuff.65e7e68d.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/stuff.65e7e68d.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.ff1c4cab.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.ff1c4cab.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.ff1c4cab.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.ff1c4cab.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/transakcia.756f8737.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/transakcia.756f8737.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/vlozenie.dec3e6e1.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/vlozenie.dec3e6e1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/CLDRPluralRuleParser.a7fb383c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/CLDRPluralRuleParser.a7fb383c.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/arrow-right.b154d106.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/crypton_graf1.66e508d5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/crypton_portfolio1.6738d7ae.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/demo.9ce5c2ea.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/demo.9ce5c2ea.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/fav.ca675512.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/fi.934dc78f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/fi.934dc78f.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/he.66f79dd0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/he.66f79dd0.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/icon-ok.3b0f914d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/index.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/iphone-2.1f4c8b5a.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/Iphone-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/iphone.d0be2d39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.history.442fd5d8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.history.442fd5d8.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.i18n.emitter.b4ab222f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.i18n.emitter.b4ab222f.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.i18n.f0dbebbf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.i18n.f0dbebbf.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.i18n.fallbacks.3f272bc0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.i18n.fallbacks.3f272bc0.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.i18n.language.ac9b455e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.i18n.language.ac9b455e.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.i18n.messagestore.1b6aee07.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.i18n.messagestore.1b6aee07.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.i18n.parser.62304c8c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/jquery.i18n.parser.62304c8c.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/logo.6023b87e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/ml.31b2bfdd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/ml.31b2bfdd.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/nakup.db105483.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/scripts.bcf3243b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/scripts.bcf3243b.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/stuff.65e7e68d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/style.ff1c4cab.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/style.ff1c4cab.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/style.ff1c4cab.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/transakcia.756f8737.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/url.min.5af0705c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/url.min.5af0705c.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/vlozenie.dec3e6e1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/00/aa06a6f6e87fa0c0104fa1d727067a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/00/af6caa44ae7653abbc7a0d45d5e596.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/02/e763159e21c4ca38b7446a6b55db03.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/05/f60a6a8919075925fec0491a22dea4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/1a/686d82b28ad07ec1be8ac5b8383746.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/2d/9382d9ac72669847e02128ab6bd984.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/2e/2aed0bb8a5d92c880dce5ede5e19fa.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/34/8d1193a18adc1a46e04f6a82353a93.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/3c/0cbaefcd7e525669a1a3c06a37df7d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/4b/a659070398d4dcb957c9e9e58f118b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/60/39724e2726ffcdde0753643199c28d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/65/a22b2eabc9da29e19b2c0b5562b616.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/70/757f8b68a1c205dd18e03356b78a04.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/76/8568b094730764abb2c57ad58ab429.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/78/91d76bd6c953c861b3d1af78a1f115.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/8c/7f025438070c63a9cf9d03d128866d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/90/5580a9bd8c7d201665473d8d647cac.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/93/3a9b76d19c8f4f2d2e87b0877fa3af.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/99/b0ef688e195f7e8f945b947aa9342a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/9d/0af2ac49b635f966288cdc3cd8b07d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/b1/4ac6a554440939ac15be67fe30cacf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/b9/3cb6dd909fa2d1b5f7341fd66ea92a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/be/7c939b0780c4925f8d303e09be819c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/bf/09f127abcdf0d83aad379687744bf4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/c9/64bf6c6ee57c6c1719dfc3e0722f97.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/d1/2c38a3d05a72a8815cd221068e90a3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/d6/08de2932a7d6c94c38ba4358ae81c0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/d8/13091228921cd69b3fe140b99990f7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/e4/abbb4ac7b15a02f22c9ff8c071bc16.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/ee/7d66a2227ff8b0aa3d73f29dd2846d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/f5/b36e6818241dd4b22ab8fb9191966f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.cache/fc/6ae39a08ff6efde41e23497a5e93fd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/CLDRPluralRuleParser.a7fb383c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/CLDRPluralRuleParser.a7fb383c.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/arrow-right.b154d106.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/crypton_graf1.66e508d5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/crypton_portfolio1.6738d7ae.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/demo.9ce5c2ea.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/demo.9ce5c2ea.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/fav.ca675512.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/fi.934dc78f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/fi.934dc78f.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/he.66f79dd0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/he.66f79dd0.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/icon-ok.3b0f914d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/index.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/iphone-2.1f4c8b5a.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/iphone-2.1f4c8b5a.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/iphone.d0be2d39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.history.442fd5d8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.history.442fd5d8.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.i18n.emitter.b4ab222f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.i18n.emitter.b4ab222f.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.i18n.f0dbebbf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.i18n.f0dbebbf.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.i18n.fallbacks.3f272bc0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.i18n.fallbacks.3f272bc0.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.i18n.language.ac9b455e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.i18n.language.ac9b455e.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.i18n.messagestore.1b6aee07.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.i18n.messagestore.1b6aee07.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.i18n.parser.62304c8c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/jquery.i18n.parser.62304c8c.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/logo.6023b87e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/ml.31b2bfdd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/ml.31b2bfdd.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/nakup.db105483.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/scripts.bcf3243b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/scripts.bcf3243b.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/stuff.65e7e68d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/style.ff1c4cab.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/style.ff1c4cab.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/style.ff1c4cab.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/transakcia.756f8737.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/url.min.5af0705c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/url.min.5af0705c.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dist/vlozenie.dec3e6e1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Polygon 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Rectangle 730.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Stuff.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/Stuff.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/arrow-right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/cardano-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/crypton_graf1.a28a6266.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/crypton_graf1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/crypton_graf1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/crypton_portfolio1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/dash-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/eos-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/etc-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/fav.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/ftc-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/graf.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/graf.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/graf1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/icon-ok.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/ifc-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/iota-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/iphone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maid-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/monero-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Iphone-2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/images/nakup.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/nakup.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/namecoin-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/nem-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/nvc-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/peercoin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/steem-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stellar-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stuff.f7b6ce52.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/tether-icon.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/images/transakcia.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/transakcia.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/trc-icon.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/images/vlozenie.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/vlozenie.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/xpm-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/xrp-icon.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/countdown.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/datepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/demo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/easypiechart.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/flickity.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/granim.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/i18n/demo-cz.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/i18n/demo-de.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/i18n/demo-hu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/i18n/demo-pl.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/i18n/en.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/i18n/sk.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/isotope.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/jquery-3.1.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/jquery.cookie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/jquery.history.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/jquery.steps.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/jquery.waypoints.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/js.cookie-2.2.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/lightbox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/parallax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/smooth-scroll.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/spectragram.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/twitterfetcher.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/typed.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/url.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/ytplayer.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/.gitmodules" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/data/plurals.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/demo/cldr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/demo/cldrjs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/demo/cldrjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/demo/demo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/libs/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/libs/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/libs/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/src/CLDRPluralRuleParser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/src/cli.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/test/CLDRPluralRuleParser.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/CLDRPluralRuleParser/tools/PluralXML2JSON.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/i18n/demo-cz.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/i18n/demo-de.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/i18n/demo-hu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/i18n/demo-pl.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/i18n/en.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/i18n/sk.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/i18n/demo-cz.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/i18n/demo-de.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/i18n/demo-hu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/i18n/demo-pl.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/i18n/en.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/i18n/sk.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/jquery.i18n.emitter.bidi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/jquery.i18n.emitter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/jquery.i18n.fallbacks.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/jquery.i18n.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/jquery.i18n.language.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/jquery.i18n.messagestore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/jquery.i18n.parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/bs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/dsb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/ga.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/hsb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/hy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/la.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/ml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/os.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/sl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/languages/uk.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn-error.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
+    <list id="1268593b-5474-4b79-85af-af001753b033" name="Revert: translade" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,16 +68,123 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state relative-caret-position="2265">
+              <caret line="151" column="103" selection-start-line="151" selection-start-column="103" selection-end-line="151" selection-end-column="113" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#button#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#form#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/i18/hu.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/i18/de.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/i18/hu.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="41" column="34" selection-start-line="41" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/i18/pl.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="42" column="144" selection-start-line="42" selection-start-column="144" selection-end-line="42" selection-end-column="144" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/i18/en.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="42" column="151" selection-start-line="42" selection-start-column="151" selection-end-line="42" selection-end-column="151" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/i18/sk.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scripts/translate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/i18/cz.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="23" selection-start-line="42" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scripts/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2715">
+              <caret line="181" selection-start-line="181" selection-end-line="181" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>style.c</find>
+      <find>prihl</find>
+      <find>crypton</find>
+      <find>prečo</find>
+      <find>learn</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -289,20 +194,32 @@
       <list>
         <option value="$PROJECT_DIR$/node_modules/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/styles/style1.css" />
+        <option value="$PROJECT_DIR$/src/libs/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/src/styles/style.scss" />
+        <option value="$PROJECT_DIR$/dist/i18/hu.json" />
+        <option value="$PROJECT_DIR$/static/i18/cz.json" />
+        <option value="$PROJECT_DIR$/static/i18/pl.json" />
+        <option value="$PROJECT_DIR$/static/i18/hu.json" />
+        <option value="$PROJECT_DIR$/static/i18/sk.json" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/scripts/index.js" />
+        <option value="$PROJECT_DIR$/src/scripts/translate.js" />
+        <option value="$PROJECT_DIR$/static/i18/de.json" />
+        <option value="$PROJECT_DIR$/static/i18/en.json" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
-    <option name="height" value="972" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -326,18 +243,6 @@
               <item name="crypton" type="b2602c69:ProjectViewProjectNode" />
               <item name="crypton" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crypton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crypton" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crypton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crypton" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -350,25 +255,57 @@
               <item name="crypton" type="b2602c69:ProjectViewProjectNode" />
               <item name="crypton" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crypton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crypton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypton" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crypton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypton" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="i18" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547417279983" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554495413544" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v4.6.1/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/i18" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/libs/libs" />
+      <recent name="$PROJECT_DIR$/src/images" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/scripts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -425,22 +362,34 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0f9846bf-321e-4b0f-a17b-e65ebe25df94" name="Default Changelist" comment="" />
+      <changelist id="1268593b-5474-4b79-85af-af001753b033" name="Revert: translade" comment="" />
       <created>1547416864832</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547416864832</updated>
       <workItem from="1547416866791" duration="358000" />
-      <workItem from="1553610623485" duration="268000" />
+      <workItem from="1553610623485" duration="22913000" />
+      <workItem from="1554043617063" duration="21699000" />
+      <workItem from="1554832099557" duration="2179000" />
     </task>
+    <task id="LOCAL-00001" summary="Revert &quot;translade&quot;&#10;&#10;This reverts commit d3b3e0425541ffc6548cea5cd5eb6467f7c9f136.&#10;&#10;# Conflicts:&#10;#&#9;serve/CLDRPluralRuleParser.a7fb383c.js&#10;#&#9;serve/demo.9ce5c2ea.js&#10;#&#9;serve/fi.934dc78f.js&#10;#&#9;serve/he.66f79dd0.js&#10;#&#9;serve/index.js&#10;#&#9;serve/jquery.history.442fd5d8.js&#10;#&#9;serve/jquery.i18n.emitter.b4ab222f.js&#10;#&#9;serve/jquery.i18n.f0dbebbf.js&#10;#&#9;serve/jquery.i18n.fallbacks.3f272bc0.js&#10;#&#9;serve/jquery.i18n.language.ac9b455e.js&#10;#&#9;serve/jquery.i18n.messagestore.1b6aee07.js&#10;#&#9;serve/jquery.i18n.parser.62304c8c.js&#10;#&#9;serve/ml.31b2bfdd.js&#10;#&#9;serve/scripts.bcf3243b.js&#10;#&#9;serve/scripts.bcf3243b.map&#10;#&#9;serve/style.ff1c4cab.js&#10;#&#9;serve/url.min.5af0705c.js&#10;#&#9;src/scripts/index.js&#10;#&#9;yarn.lock">
+      <created>1553610993258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553610993258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="626000" />
+    <option name="totallyTimeSpent" value="47149000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="972" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20634921" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -455,9 +404,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.4602041" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -473,21 +422,170 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Revert &quot;translade&quot;&#10;&#10;This reverts commit d3b3e0425541ffc6548cea5cd5eb6467f7c9f136.&#10;&#10;# Conflicts:&#10;#&#9;serve/CLDRPluralRuleParser.a7fb383c.js&#10;#&#9;serve/demo.9ce5c2ea.js&#10;#&#9;serve/fi.934dc78f.js&#10;#&#9;serve/he.66f79dd0.js&#10;#&#9;serve/index.js&#10;#&#9;serve/jquery.history.442fd5d8.js&#10;#&#9;serve/jquery.i18n.emitter.b4ab222f.js&#10;#&#9;serve/jquery.i18n.f0dbebbf.js&#10;#&#9;serve/jquery.i18n.fallbacks.3f272bc0.js&#10;#&#9;serve/jquery.i18n.language.ac9b455e.js&#10;#&#9;serve/jquery.i18n.messagestore.1b6aee07.js&#10;#&#9;serve/jquery.i18n.parser.62304c8c.js&#10;#&#9;serve/ml.31b2bfdd.js&#10;#&#9;serve/scripts.bcf3243b.js&#10;#&#9;serve/scripts.bcf3243b.map&#10;#&#9;serve/style.ff1c4cab.js&#10;#&#9;serve/url.min.5af0705c.js&#10;#&#9;src/scripts/index.js&#10;#&#9;yarn.lock" />
     <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;translade&quot;&#10;&#10;This reverts commit d3b3e0425541ffc6548cea5cd5eb6467f7c9f136.&#10;&#10;# Conflicts:&#10;#&#9;serve/CLDRPluralRuleParser.a7fb383c.js&#10;#&#9;serve/demo.9ce5c2ea.js&#10;#&#9;serve/fi.934dc78f.js&#10;#&#9;serve/he.66f79dd0.js&#10;#&#9;serve/index.js&#10;#&#9;serve/jquery.history.442fd5d8.js&#10;#&#9;serve/jquery.i18n.emitter.b4ab222f.js&#10;#&#9;serve/jquery.i18n.f0dbebbf.js&#10;#&#9;serve/jquery.i18n.fallbacks.3f272bc0.js&#10;#&#9;serve/jquery.i18n.language.ac9b455e.js&#10;#&#9;serve/jquery.i18n.messagestore.1b6aee07.js&#10;#&#9;serve/jquery.i18n.parser.62304c8c.js&#10;#&#9;serve/ml.31b2bfdd.js&#10;#&#9;serve/scripts.bcf3243b.js&#10;#&#9;serve/scripts.bcf3243b.map&#10;#&#9;serve/style.ff1c4cab.js&#10;#&#9;serve/url.min.5af0705c.js&#10;#&#9;src/scripts/index.js&#10;#&#9;yarn.lock" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/neo-icon.44bb9acd.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/build/neo-icon.44bb9acd.png" />
     <entry file="file://$PROJECT_DIR$/build/scripts.9b326172.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/.gitignore" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/i18/en.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/i18/sk.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/style1.css" />
+    <entry file="file://$PROJECT_DIR$/src/libs/libs/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5715">
+          <caret line="381" column="22" selection-start-line="381" selection-start-column="22" selection-end-line="381" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2265">
+          <caret line="151" column="103" selection-start-line="151" selection-start-column="103" selection-end-line="151" selection-end-column="113" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#button#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#form#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/i18/cz.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="23" selection-start-line="42" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scripts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2715">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scripts/translate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/i18/hu.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/i18/hu.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="41" column="34" selection-start-line="41" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/i18/pl.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="42" column="144" selection-start-line="42" selection-start-column="144" selection-end-line="42" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/i18/en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="42" column="151" selection-start-line="42" selection-start-column="151" selection-end-line="42" selection-end-column="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/i18/sk.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/i18/de.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
         </state>
       </provider>
     </entry>
